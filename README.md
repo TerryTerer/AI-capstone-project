@@ -1,5 +1,5 @@
 # AI-capstone-project
-This is a project aimed at completing my GenAI project
+This is a project aimed at completing my GenAI course
 
 # PASSWORD ANALYZER WITH COHERE AI
 # Project Overview
