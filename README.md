@@ -46,8 +46,11 @@ Learning how to integrate Cohere’s generative AI models into a Python project 
 2.The password is sent to Cohere’s Chat API with a prompt asking it to evaluate the password strength.
 
 3.Cohere returns a response describing:
+
    *Whether the password is weak, medium, or strong.
+   
    *Potential vulnerabilities.
+   
    *Suggestions to improve the password.
 
 4. The result is printed on the screen for the user.
@@ -67,6 +70,7 @@ co = cohere.Client("YOUR_API_KEY_HERE")
 
 
 *This works fine for personal testing and submission.
+
 *Optionally, you can use a .env file for safer storage of your key.
 
 # Minimal Example
